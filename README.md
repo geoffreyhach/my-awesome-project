@@ -2,6 +2,5 @@
 This awesome project is created to experiment git notions like clone, push and pull
 
 # Achievements
-Clone
-Pull
+Cloned, pulled
 & about to push
